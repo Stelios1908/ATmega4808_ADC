@@ -1,5 +1,5 @@
 
-#ADC free running and single convertion mode
+# ADC free running and single convertion mode
 
 A device starts from a point in the room.
 
